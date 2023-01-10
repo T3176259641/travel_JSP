@@ -1,0 +1,189 @@
+/*Jquery框架*/
+$("#glide").show();    //控制轮播图js
+$('.well_comblack').show();
+$('.well_tx').show();
+/*控制鼠标移动移除效果*/
+$('.glide').mouseover(function(){
+	$("#glide").show();
+});
+$('.glide').mouseout(function(){
+	$("#glide").hide();
+});
+$(".onclick01").click(function(){
+	$(".onclick01").css("background-Color","#1E90FF");
+	$(".onclick01").css("color","white");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick02").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#1E90FF");
+	$(".onclick02").css("color","white");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick03").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#1E90FF");
+	$(".onclick03").css("color","white");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick04").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#1E90FF");
+	$(".onclick04").css("color","white");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick05").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#1E90FF");
+	$(".onclick05").css("color","white");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick06").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#1E90FF");
+	$(".onclick06").css("color","white");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick07").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#1E90FF");
+	$(".onclick07").css("color","white");
+	$(".onclick08").css("background-Color","#e3e3e3");
+	$(".onclick08").css("color","#727272");
+});
+$(".onclick08").click(function(){
+	$(".onclick01").css("background-Color","#e3e3e3");
+	$(".onclick01").css("color","#727272");
+	$(".onclick02").css("background-Color","#e3e3e3");
+	$(".onclick02").css("color","#727272");
+	$(".onclick03").css("background-Color","#e3e3e3");
+	$(".onclick03").css("color","#727272");
+	$(".onclick04").css("background-Color","#e3e3e3");
+	$(".onclick04").css("color","#727272");
+	$(".onclick05").css("background-Color","#e3e3e3");
+	$(".onclick05").css("color","#727272");
+	$(".onclick06").css("background-Color","#e3e3e3");
+	$(".onclick06").css("color","#727272");
+	$(".onclick07").css("background-Color","#e3e3e3");
+	$(".onclick07").css("color","#727272");
+	$(".onclick08").css("background-Color","#1E90FF");
+	$(".onclick08").css("color","white");
+});
+
+$(".login_hide").hide();
+/*登录隐藏部分css*/
+$("#btn01").click(function(){
+	$(".login_hide").fadeIn();
+});
+$(".go-on").click(function(){
+	$(".login_hide").fadeOut();
+});
+
+$(".user").hide();
+/*登录隐藏部分css*/
+$("#btn02").click(function(){
+	$(".user").fadeIn();
+});
+$(".go-on").click(function(){
+	$(".user").fadeOut();
+});
+
+$(".btn_ok1").click(function(){
+	$(".user").hide();
+});
+
+$(".btn_ok").click(function(){
+	$(".login_hide").hide();
+});
+if($("#userName").text().trim() != ""){
+	$(".show_er").fadeIn(10);
+	$(".show").hide();
+	
+}else{
+	$(".show_er").hide();
+	$(".show").show();
+}

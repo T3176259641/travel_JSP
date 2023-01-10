@@ -1,0 +1,15 @@
+.title{
+	font-size: 26px;
+}
+.user_fr{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+.user_fr textarea{
+	font-size: 18px;
+}
+.name{
+	width: 100px;
+	font-size: 20px;
+}
